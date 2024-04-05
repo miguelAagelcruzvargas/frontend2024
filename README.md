@@ -1,1 +1,1 @@
-se agrego el proyecto de Hola mundo
+este repositorio contiene todas las practicas vistas
